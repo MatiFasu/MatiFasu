@@ -1,4 +1,4 @@
-#Sobre Mí
+# Sobre Mí
 
 Cursando el tercer año de mi carrera, donde he adquirido sólidos conocimientos en programación.
 

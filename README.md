@@ -8,10 +8,10 @@ Mi objetivo es especializarme en el desarrollo backend, sin embargo, también me
 
 Cuento con conocimientos en el análisis/diseño de sistemas, desarrollo y testing.
 
-Análisis: elaboración de casos de uso, diagramas de actividades y diagramas de clases para comprender y modelar sistemas complejos.
+- Análisis: elaboración de casos de uso, diagramas de actividades y diagramas de clases para comprender y modelar sistemas complejos.
 
-Diseño: experiencia en la aplicación de patrones de diseño como Strategy, State, Observer, MVC, entre otros, para crear soluciones robustas y escalables.
+- Diseño: experiencia en la aplicación de patrones de diseño como Strategy, State, Observer, MVC, entre otros, para crear soluciones robustas y escalables.
 
-Testing: definición de historias de usuarios, creación de casos de prueba y ejecución de pruebas automatizadas utilizando herramientas como Selenium. Familiarizado con metodologías ágiles como Scrum para garantizar la calidad del producto final.
+- Testing: definición de historias de usuarios, creación de casos de prueba y ejecución de pruebas automatizadas utilizando herramientas como Selenium. Familiarizado con metodologías ágiles como Scrum para garantizar la calidad del producto final.
 
 Portfolio web: https://matifasulinoportfolioweb.000webhostapp.com/

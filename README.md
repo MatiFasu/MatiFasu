@@ -14,4 +14,4 @@ Cuento con conocimientos en el análisis/diseño de sistemas, desarrollo y testi
 
 - Testing: definición de historias de usuarios, creación de casos de prueba y ejecución de pruebas automatizadas utilizando herramientas como Selenium. Familiarizado con metodologías ágiles como Scrum para garantizar la calidad del producto final.
 
-Portfolio web: [https://matifasulinoportfolioweb.000webhostapp.com/](https://elegant-custard-5de84a.netlify.app/)
+Portfolio web: https://elegant-custard-5de84a.netlify.app/

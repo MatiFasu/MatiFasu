@@ -1,5 +1,7 @@
 # Sobre Mí
 
+Analista Técnico de PeopleSoft. 
+
 Cursando el cuarto año de ingeniería informática, donde he adquirido sólidos conocimientos en programación.
 
 Tengo experiencia usando tecnologías como java con jpa, java web con jsp y con conocimientos de spring boot.

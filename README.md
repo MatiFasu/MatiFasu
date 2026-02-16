@@ -2,10 +2,8 @@
 
 Analista Técnico de PeopleSoft. 
 
-Cursando el cuarto año de ingeniería informática, donde he adquirido sólidos conocimientos en programación.
+Estudiante avanzado de Ingeniería Informática (4to año) con especialización en desarrollo Backend utilizando Spring Boot. Cuento con experiencia práctica en el diseño e implementación de arquitecturas, abarcando tanto sistemas monolíticos como microservicios. 
 
-Tengo experiencia usando tecnologías como java con jpa, java web con jsp y con conocimientos de spring boot.
-
-Mi objetivo es especializarme en el desarrollo backend, sin embargo, también me encuentro abierto a la posibilidad de dedicarme al ámbito de la ciencia de datos, testing o ciberseguridad.
+Actualmente, desempeño un rol activo en la migración crítica de bases de datos (DB2 a Oracle) dentro de entornos PeopleSoft, asegurando la integridad y optimización de los datos.
 
 Portfolio web: https://elegant-custard-5de84a.netlify.app/

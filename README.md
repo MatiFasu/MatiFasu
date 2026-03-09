@@ -6,6 +6,4 @@ Estudiante avanzado de Ingeniería Informática (4to año) con especialización 
 
 Actualmente, desempeño un rol activo en la migración crítica de bases de datos (DB2 a Oracle) dentro de entornos PeopleSoft, asegurando la integridad y optimización de los datos.
 
-Puedes ver mis proyectos de spring boot u otros en el siguiente link!
-
-Portfolio web: https://elegant-custard-5de84a.netlify.app/
+Puedes conocer más sobre mi código, la estructura de mis proyectos en Spring Boot y otras herramientas tecnológicas que manejo visitando mi portfolio: [Link](https://elegant-custard-5de84a.netlify.app/)

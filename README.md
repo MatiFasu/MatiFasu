@@ -2,8 +2,6 @@
 
 Analista Técnico de PeopleSoft. 
 
-Estudiante avanzado de Ingeniería Informática (4to año) con especialización en desarrollo Backend utilizando Spring Boot. Cuento con experiencia práctica en el diseño e implementación de arquitecturas, abarcando tanto sistemas monolíticos como microservicios. 
-
-Actualmente, desempeño un rol activo en la migración crítica de bases de datos (DB2 a Oracle) dentro de entornos PeopleSoft, asegurando la integridad y optimización de los datos.
+Actualmente, desempeño un rol activo en la migración crítica de bases de datos (DB2 a Oracle) dentro de entornos PeopleSoft, asegurando la integridad y optimización de los datos. A su vez trabajo en el rol de analista técnico peoplesoft.
 
 Puedes conocer más sobre mi código, la estructura de mis proyectos en Spring Boot y otras herramientas tecnológicas que manejo visitando mi sitio web: [Link](https://matifportfolio.netlify.app/)
